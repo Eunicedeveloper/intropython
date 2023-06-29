@@ -15,10 +15,10 @@ result = weight/float(height * height)
 if result <= 18:
     print("Underweight")
 
-elif result >=18.1:
+elif result <=29:
     print(" Normal weight")
 
-elif result >=29.1:
+elif result <=34:
     print("overweight")
 
 else:
