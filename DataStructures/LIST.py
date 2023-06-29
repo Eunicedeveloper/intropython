@@ -12,3 +12,9 @@ friends.append("jones")
 #friends.remove("Bee")
 
 print(friends)
+print(friends[0])
+print(friends[1])
+#printing the last data in a list
+print(friends[-1])
+#printing to infinity
+print(friends[1:])
