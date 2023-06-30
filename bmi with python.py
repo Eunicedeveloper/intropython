@@ -23,10 +23,3 @@ elif result <=34:
 
 else:
     print("obese")
-
-
-
-
-
-
-
