@@ -5,6 +5,6 @@ def addnums(x,y):
 addnums(150, 30)
 
 
-def showname(first, last):
-    print(first,last)
-showname(input("enter first name"), input("enter second name"))
+#def showname(first, last):
+    #print(first,last)
+#showname(input("enter first name"), input("enter second name"))
